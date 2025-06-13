@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fhir-aggregator.org.ico",
     "slug": "fhir-aggregator",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 546,
     "timeDay": 546,
     "timeWeek": 546,
     "timeMonth": 546,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-13": 0
+    }
   }
 ]
