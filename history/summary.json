@@ -22,17 +22,17 @@
     "url": "https://google-fhir.fhir-aggregator.org",
     "icon": "https://icons.duckduckgo.com/ip3/google-fhir.fhir-aggregator.org.ico",
     "slug": "fhir-server-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 956,
-    "timeWeek": 855,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "time": 775,
+    "timeDay": 627,
+    "timeWeek": 775,
+    "timeMonth": 775,
+    "timeYear": 775,
     "dailyMinutesDown": {}
   }
 ]
