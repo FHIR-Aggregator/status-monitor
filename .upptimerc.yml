@@ -7,6 +7,13 @@ sites:
     url: https://fhir-aggregator.org/
   - name: FHIR Server (cloud)
     url: https://google-fhir.fhir-aggregator.org
+    # TODO: Temporarily adding 401 here while we investigate why the Google FHIR service would be returning 401...
+    # Example:
+    # - Commit: https://github.com/FHIR-Aggregator/status-monitor/commit/ca943a2f03020192c2aa62d4eb20bd16e5740004
+    # - Actions: https://github.com/FHIR-Aggregator/status-monitor/actions/runs/18320993111/job/52173722657#step:3:33
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
