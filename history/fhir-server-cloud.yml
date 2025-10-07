@@ -1,7 +1,7 @@
 url: https://google-fhir.fhir-aggregator.org
-status: down
-code: 401
-responseTime: 296
-lastUpdated: 2025-10-07T17:31:53.348Z
+status: up
+code: 200
+responseTime: 668
+lastUpdated: 2025-10-07T17:52:35.040Z
 startTime: 2025-08-13T23:08:12.929Z
 generator: Upptime <https://github.com/upptime/upptime>
