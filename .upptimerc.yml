@@ -24,6 +24,7 @@ status-website:
   name: Upptime
   introTitle: "NCPI FHIR-Aggregator Status"
   introMessage: Integrating Fast Healthcare Interoperability Resources (FHIR) from across the NIH Cloud Platform Interoperability Program.
+  theme: light
   navbar:
     - title: Status
       href: /
